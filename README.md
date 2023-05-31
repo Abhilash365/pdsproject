@@ -1,5 +1,5 @@
 # pdsproject
-TRAIN TICKET BOOKING SYSTEM
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
